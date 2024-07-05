@@ -1,2 +1,2 @@
-# MonsterCurryMenu
- Check real life size of dish (Monster Curry Capstone)
+# ARMenu
+ Check dish in life size before ordering (Monster Curry capstone)
